@@ -2,7 +2,7 @@
 
 If you've worked with WinJS, the HTML5 & JavaScript application side, you'll know some of the stuff is not *really* designed for JavaScript developers.
 
-Medallion.js is designed to make it easier to work with the [Badges](http://msdn.microsoft.com/en-us/library/windows/apps/hh761459.aspx), no more XML manipulation!
+Medallion.js is designed to make it easier to work with the [Badges](https://msdn.microsoft.com/library/windows/apps/hh761459.aspx?WT.mc_id=javascript-0000-aapowell), no more XML manipulation!
 
 # Usage
 
